@@ -4,7 +4,7 @@ This project is a .NET Core backend application designed to test and demonstrate
 
 ## Key Features
 - Implements OData endpoints for CRUD operations.
-- Supports OData query options ($filter, $select, $expand, $orderby, $top, and $skip).
+- Supports OData query options (`$filter`, `$select`, `$expand`, `$orderby`, `$top`, and `$skip`).
 - Demonstrates best practices for structuring OData-compliant APIs.
 - Includes example data models and controllers.
 - Easy-to-follow documentation for setting up and using the project.
