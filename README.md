@@ -1,5 +1,5 @@
 ## Project Name: AirVinyl
-Description
+### Description
 This project is a .NET Core backend application designed to test and demonstrate OData standards. It provides a robust implementation of OData services, showcasing how to build APIs that adhere to OData specifications. The project is ideal for learning, experimenting, and testing OData features, including querying, filtering, sorting, and pagination.
 
 ## Key Features
